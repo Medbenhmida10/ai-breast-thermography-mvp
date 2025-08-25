@@ -1,0 +1,29 @@
+# Core ML/DL Frameworks
+torch==2.1.0
+torchvision==0.16.0
+torchaudio==2.1.0
+
+# Data Handling
+numpy==1.24.3
+pandas==2.1.1
+scikit-learn==1.3.1
+
+# Image Processing
+opencv-python==4.8.1.78
+Pillow==10.0.1
+scikit-image==0.21.0
+
+# Visualization
+matplotlib==3.8.0
+seaborn==0.13.0
+
+# Explainability
+grad-cam==1.4.8
+shap==0.42.1
+
+# Model Optimization
+optuna==3.3.0
+
+# Utilities
+tqdm==4.66.1
+albumentations==1.3.1
