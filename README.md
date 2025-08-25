@@ -3,12 +3,12 @@
 This repository hosts the **MVP (Minimum Viable Product)** for an 
 AI-assisted thermography solution in breast cancer screening.
 
-##  Purpose
+## 🔬 Purpose
 - Explore thermographic imaging as a **non-contact, portable screening tool**.
 - Develop a **deep learning CAD (Computer-Aided Diagnosis)** pipeline.
 - Evaluate feasibility and accuracy of models on public datasets.
 
-##  Project Structure
+## 📂 Project Structure
 - `notebooks/` — Colab & Jupyter experiments (training, visualization).
 - `data/` — Placeholder for synthetic/test data .
 - `results/` — Experimental results, PDFs, charts.
@@ -20,7 +20,7 @@ AI-assisted thermography solution in breast cancer screening.
 - Evaluation: Accuracy, Sensitivity, Specificity.
 - Charts & visual storytelling for technical presentations.
 
-##  Issues & Projects
+## 📌 Issues & Projects
 We use **GitHub Issues** for bug tracking & tasks, 
 and **Projects** for roadmap visualization.
 
